@@ -1,0 +1,9 @@
+* lm-keyboard
+
+a personal keyboard layout: UK ISO pyhsical keybord (TLK), US layout, italian vowels, 2 extra keys, emacs oriented.
+
+** reference
+
+http://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/
+
+https://www.keychron.com/collections/keychron-iso-keyboard-collection/products/keychron-k8-wireless-mechanical-keyboard-uk-iso-layout
