@@ -2,6 +2,8 @@
 
 a personal keyboard layout: UK ISO pyhsical keybord (TLK), US layout, italian vowels, 2 extra keys, emacs oriented.
 
+How to merge an US layout on a UK ISO physical keyboard, adding italian keys (accented vowels, both case) and some keys more.
+
 ** reference
 
 http://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/
